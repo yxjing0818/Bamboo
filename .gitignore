@@ -1,0 +1,18 @@
+# Visual Studio / MSVC build outputs
+build/
+out/
+.vs/
+x64/
+Release/
+Debug/
+*.user
+*.suo
+*.db
+*.opendb
+
+# clangd
+.cache/
+compile_commands.json
+
+# SVG outputs (tests run)
+*_output.svg
